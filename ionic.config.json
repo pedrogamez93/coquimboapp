@@ -1,0 +1,7 @@
+{
+  "name": "RecyclerCoquimboMaps",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
